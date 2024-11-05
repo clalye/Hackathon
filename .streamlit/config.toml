@@ -1,0 +1,9 @@
+[theme] # You have to add this line
+
+
+[browser]
+
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
